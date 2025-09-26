@@ -50,8 +50,8 @@
     "postcss-scss": "4.0.3"
   },
   "engines": {
-    "node": "16.x",
-    "npm": "8.x"
+    "node": "18.x",
+    "npm": "9.x"
   },
-  "packageManager": "npm@8"
+  "packageManager": "npm@9"
 }
